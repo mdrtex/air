@@ -1,0 +1,89 @@
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-weight: bold;
+}
+.nav {
+  background-color: blanchedalmond;
+}
+.nav .ko {
+  padding-right: 700px;
+}
+.gh1 {
+  text-align: center;
+  margin: 40px;
+}
+.cards {
+  justify-content: center;
+  display: flex;
+}
+.cards .card {
+  margin: 20px;
+}
+.photo {
+  padding: 35px;
+}
+.text {
+  display: flex;
+  justify-content: center;
+}
+.text2 {
+  display: flex;
+  justify-content: center;
+}
+.col {
+  margin-top: 20px;
+}
+.step {
+  margin: 60px;
+}
+.gal {
+  display: flex;
+  justify-content: center;
+}
+.gal img {
+  margin: 3px;
+}
+.gas {
+  display: flex;
+  justify-content: center;
+}
+.gas img {
+  margin: 3px;
+}
+.colon {
+  display: flex;
+  justify-content: center;
+  margin: 50px;
+}
+.colon .card {
+  margin: 10px;
+}
+.content {
+  margin: 40px;
+}
+.map {
+  margin: 20px;
+}
+.boss {
+  text-align: center;
+}
+.footer a {
+  text-decoration: none;
+}
+.cop h4 {
+  float: left;
+}
+.hub {
+  color: rgb(139, 139, 232);
+}
+.cop .hab {
+  float: right;
+}
